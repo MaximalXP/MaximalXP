@@ -16,11 +16,11 @@ And some of my Telegram Bots:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/maximalxp4)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MaximalXP)
-[![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://maximalxp.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://maximalxp.github.io/portfolio/)
 
 ---
 
-### <img src="https://img.shields.io/badge/Web_Technologies-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" />
+### <img src="https://img.shields.io/badge/Skills-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
