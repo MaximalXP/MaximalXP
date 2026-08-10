@@ -22,7 +22,7 @@ And some of my Telegram Bots:
 
 ---
 
-### <img src="https://img.shields.io/badge/Skills-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" />
+### Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
