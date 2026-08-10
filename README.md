@@ -4,6 +4,7 @@
 * I love translating and creating Telegram bots.
 
 Here is almost 100% translated Telegram to Armenian for Android:  
+
 [![Telegram Android in Armenian](https://img.shields.io/badge/Telegram_Android_Armenian-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](tg://setlanguage?lang=maximalxp)
 
 And some of my Telegram Bots:
