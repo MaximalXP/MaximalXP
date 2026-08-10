@@ -1,18 +1,20 @@
-### 💫 About Me:
+### About Me
 
-* 💻 15-year-old developer from Armenia․
-* ⚡ I love translating and creating Telegram bots.
+* 15-year-old developer from Armenia.
+* I love translating and creating Telegram bots.
 
-Here is almost 100% translated Telegram to Armenian for Android: [![Telegram Android in Armenian](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](tg://setlanguage?lang=maximalxp)
+Here is almost 100% translated Telegram to Armenian for Android: 
+[![Telegram Android in Armenian](https://img.shields.io/badge/Telegram_Android_Armenian-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](tg://setlanguage?lang=maximalxp)
 
 And some of my Telegram Bots:
-[![Fast Schedule](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([tg://setlanguage?lang=maximalxp](https://t.me/automaticpostsenderBot))
-[![WikiGet](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([tg://setlanguage?lang=maximalxp](https://t.me/Wikigetbot))
-[![Topic Indexer](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([tg://setlanguage?lang=maximalxp](https://t.me/TopicIndexer_bot))
-[![Math Task Generator for kids](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([tg://setlanguage?lang=maximalxp](https://t.me/math_task_generator_bot))
+* [![Fast Schedule](https://img.shields.io/badge/Fast_Schedule-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/automaticpostsenderBot)
+* [![WikiGet](https://img.shields.io/badge/WikiGet-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Wikigetbot)
+* [![Topic Indexer](https://img.shields.io/badge/Topic_Indexer-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TopicIndexer_bot)
+* [![Math Task Generator](https://img.shields.io/badge/Math_Task_Generator-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/math_task_generator_bot)
+
 ---
 
-### 🌐 Socials:
+### Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/maximalxp4)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MaximalXP)
