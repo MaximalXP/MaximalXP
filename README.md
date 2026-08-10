@@ -7,10 +7,18 @@ Here is almost 100% translated Telegram to Armenian for Android:
 [![Telegram Android in Armenian](https://img.shields.io/badge/Telegram_Android_Armenian-%23004080.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/addlanguage/maximalxp)
 
 And some of my Telegram Bots:
-- [![Fast Schedule](https://img.shields.io/badge/Fast_Schedule-%230055b3.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/automaticpostsenderBot) – Schedule posts for Telegram channels really fast.
-- [![WikiGet](https://img.shields.io/badge/WikiGet-%231a75ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Wikigetbot) – Quick Wikipedia article search inline bot.
-- [![Topic Indexer](https://img.shields.io/badge/Topic_Indexer-%233385ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TopicIndexer_bot) – Bot for indexing and organizing group topics. Indexing all messages from groups, advanced filtering.
-- [![Math Task Generator](https://img.shields.io/badge/Math_Task_Generator-%234d94ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/math_task_generator_bot) – Educational bot generating math tasks for kids.
+
+[![Fast Schedule](https://img.shields.io/badge/Fast_Schedule-%230055b3.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/automaticpostsenderBot)  
+Schedule posts for Telegram channels really fast.
+
+[![WikiGet](https://img.shields.io/badge/WikiGet-%231a75ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Wikigetbot)  
+Quick Wikipedia article search inline bot.
+
+[![Topic Indexer](https://img.shields.io/badge/Topic_Indexer-%233385ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TopicIndexer_bot)  
+Bot for indexing and organizing group topics, advanced filtering.
+
+[![Math Task Generator](https://img.shields.io/badge/Math_Task_Generator-%234d94ff.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/math_task_generator_bot)  
+Educational bot generating math tasks for kids.
 
 ---
 
